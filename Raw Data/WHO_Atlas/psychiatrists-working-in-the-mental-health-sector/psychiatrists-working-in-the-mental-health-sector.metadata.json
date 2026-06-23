@@ -1,0 +1,40 @@
+{
+  "chart": {
+    "title": "Psychiatrists per 100,000 people",
+    "subtitle": "The number of psychiatrists per 100,000 people in the population.",
+    "note": "Data points are taken as single-year observations between 2015 and 2020, depending on the country.",
+    "citation": "WHO Mental Health Atlas 2020 via UNICEF (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/psychiatrists-working-in-the-mental-health-sector?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "United Kingdom",
+      "Canada",
+      "Mexico",
+      "China",
+      "Russia",
+      "South Africa",
+      "Chad",
+      "Pakistan",
+      "Brazil",
+      "France"
+    ]
+  },
+  "columns": {
+    "Total number of psychiatrists per 100,000 population": {
+      "titleShort": "Total number of psychiatrists per 100,000 population",
+      "titleLong": "Total number of psychiatrists per 100,000 population",
+      "shortUnit": "",
+      "unit": "per 100,000 population",
+      "timespan": "2015-2020",
+      "type": "Integer",
+      "owidVariableId": 852612,
+      "shortName": "total_number_of_psychiatrists__per_100_000_population",
+      "lastUpdated": "2024-03-21",
+      "nextUpdate": "2027-03-21",
+      "citationShort": "WHO Mental Health Atlas 2020 via UNICEF (2023) – with major processing by Our World in Data",
+      "citationLong": "WHO Mental Health Atlas 2020 via UNICEF (2023) – with major processing by Our World in Data. “Total number of psychiatrists per 100,000 population” [dataset]. WHO Mental Health Atlas 2020 via UNICEF, “Countdown for Global Mental Health 2030” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/852612.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-06-23",
+  "activeFilters": {}
+}
