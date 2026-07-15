@@ -1,4 +1,3 @@
-# womens-health-data-analytics
 # Overlooked & Underserved
 ## A Global Analysis of Women's Mental Health Disparities
 
