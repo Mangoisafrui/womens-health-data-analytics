@@ -1,5 +1,4 @@
 # womens-health-data-analytics
-Global analysis of women's mental health disparities and gender bias in medical diagnosis
 # Overlooked & Underserved
 ## A Global Analysis of Women's Mental Health Disparities
 
